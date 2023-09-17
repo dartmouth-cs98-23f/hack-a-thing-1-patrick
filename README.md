@@ -5,8 +5,7 @@ Calculator
 I set out to create a calculator app so I could improve my CSS and JS skills.
 The project attempted has all the features of a basic calculator, and also a way to change the theme
 
-Include some screenshots.
-[How?](https://help.github.com/articles/about-readmes/#relative-links-and-image-paths-in-readme-files)
+![Screenshot 2023-09-17 182752](https://github.com/dartmouth-cs98-23f/hack-a-thing-1-patrick/assets/90630987/c14a66cb-6447-4eeb-a88b-6cdc65f025b7)
 
 ## Who Did What?
 I did it alone with the help of a guide online
